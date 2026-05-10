@@ -334,4 +334,4 @@ The schema is the contract. Read it before changing the conversion prompt. It de
 
 ## License
 
-Internal tool. Not published.
+MIT — see [LICENSE](LICENSE). Use, modify, distribute freely.
